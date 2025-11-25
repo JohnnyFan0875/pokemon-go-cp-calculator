@@ -8,6 +8,7 @@ $(document).ready(function () {
       let table = $("#evo-table").DataTable({
         data: data,
         deferRender: true,
+        responsive: true,
         columns: [
           { data: "Pokemon" },
           { data: "CP" },
@@ -19,7 +20,7 @@ $(document).ready(function () {
           { data: "Collected" },
         ],
         order: [[0, "asc"]],
-        pageLength: 25,
+        pageLength: 100,
         lengthMenu: [10, 25, 50, 100, 200],
         dom: '<"top-controls"lf>rtip',
         fixedHeader: false,

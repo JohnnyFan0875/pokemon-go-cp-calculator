@@ -4,6 +4,38 @@ body {
   background-color: #e2e2e2;
 }
 
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* Adjust font sizes and padding on small screens */
+@media (max-width: 600px) {
+  body {
+    margin: 1em;
+    font-size: 14px;
+  }
+  #evo-table {
+    font-size: 12px;
+  }
+  /* Adjust filter inputs and dropdown widths */
+  #evo-table thead tr:nth-child(2) th input,
+  #evo-table thead tr:nth-child(2) th select {
+    font-size: 12px;
+  }
+  /* Make table headers and cells more compact */
+  #evo-table th,
+  #evo-table td {
+    padding: 4px 6px;
+  }
+  /* Make top controls stack vertically */
+  .top-controls {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
+
 .dt-buttons {
   margin-bottom: 1em;
 }
