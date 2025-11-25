@@ -18,7 +18,8 @@ body {
   }
   #evo-table {
     font-size: 12px;
-    table-layout: auto;
+    table-layout: auto !important;
+    width: 100%;
   }
   /* Adjust filter inputs and dropdown widths */
   #evo-table thead tr:nth-child(2) th input,
@@ -29,8 +30,6 @@ body {
   /* Make table headers and cells more compact */
   #evo-table th,
   #evo-table td {
-    padding: 4px 6px;
-    font-size: 12px;
     white-space: normal;
     word-break: break-word;
     min-width: 70px;
