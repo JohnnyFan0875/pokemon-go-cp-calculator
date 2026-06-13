@@ -75,9 +75,9 @@ Golduck,NO,NO,NO
 Mankey,YES,NO,NO
 Primeape,YES,NO,NO
 Growlithe,YES,NO,NO
-Growlithe Hisuian Form,NO,NO,NO
+Growlithe Hisuian Form,YES,NO,NO
 Arcanine,YES,NO,NO
-Arcanine Hisuian Form,NO,NO,NO
+Arcanine Hisuian Form,YES,NO,NO
 Poliwag,YES,NO,NO
 Poliwhirl,YES,NO,NO
 Poliwrath,YES,NO,NO
@@ -195,6 +195,8 @@ Dragonair,YES,NO,NO
 Dragonite,NO,NO,NO
 Mewtwo,NO,NO,NO
 Mewtwo Armored Mewtwo,NO,NO,NO
+Mewtwo Mega Mewtwo X,NO,NO,NO
+Mewtwo Mega Mewtwo Y,NO,NO,NO
 Mew,NO,NO,NO
 Chikorita,YES,YES,NO
 Bayleef,YES,NO,NO
@@ -280,6 +282,7 @@ Octillery,YES,NO,NO
 Delibird,YES,YES,NO
 Mantine,YES,NO,NO
 Skarmory,YES,NO,NO
+Skarmory Mega Skarmory,NO,NO,NO
 Houndour,YES,NO,NO
 Houndoom,YES,NO,NO
 Houndoom Mega Houndoom,NO,NO,NO
@@ -411,7 +414,7 @@ Crawdaunt,YES,NO,NO
 Baltoy,YES,YES,YES
 Claydol,NO,NO,NO
 Lileep,YES,YES,NO
-Cradily,NO,NO,NO
+Cradily,YES,NO,NO
 Anorith,YES,NO,NO
 Armaldo,NO,NO,NO
 Feebas,NO,NO,NO
@@ -549,7 +552,7 @@ Finneon,YES,NO,NO
 Lumineon,YES,NO,NO
 Mantyke,NO,NO,NO
 Snover,YES,NO,NO
-Abomasnow,NO,NO,NO
+Abomasnow,YES,NO,NO
 Abomasnow Mega Abomasnow,NO,NO,NO
 Weavile,NO,NO,NO
 Magnezone,YES,NO,NO
@@ -670,7 +673,7 @@ Scrafty,YES,NO,NO
 Sigilyph,NO,NO,NO
 Yamask,YES,NO,NO
 Yamask Galarian Form,YES,NO,NO
-Cofagrigus,NO,YES,NO
+Cofagrigus,YES,YES,NO
 Tirtouga,NO,NO,NO
 Carracosta,NO,NO,NO
 Archen,YES,NO,NO
@@ -893,11 +896,11 @@ Mareanie,YES,NO,NO
 Toxapex,YES,NO,NO
 Mudbray,NO,NO,NO
 Mudsdale,NO,NO,NO
-Dewpider,YES,NO,NO
+Dewpider,YES,YES,YES
 Araquanid,YES,NO,NO
 Fomantis,YES,NO,NO
 Lurantis,YES,NO,NO
-Morelull,YES,NO,NO
+Morelull,YES,YES,NO
 Shiinotic,YES,NO,NO
 Salandit,NO,NO,NO
 Salazzle,NO,NO,NO
@@ -951,6 +954,7 @@ Sirfetch'd,NO,NO,NO
 Mr. Rime,NO,NO,NO
 Runerigus,NO,NO,NO
 Falinks,NO,NO,NO
+Falinks Mega Falinks,NO,NO,NO
 Zacian Hero of Many Battles,NO,NO,NO
 Zamazenta Hero of Many Battles,NO,NO,NO
 Zarude,NO,NO,NO
@@ -1066,7 +1070,7 @@ Tauros Paldean Form Blaze Breed,NO,NO,NO
 Tauros Paldean Form Aqua Breed,NO,NO,NO
 Audino Mega Audino,NO,NO,NO
 Gossifleur,YES,NO,NO
-Eldegoss,NO,NO,NO
+Eldegoss,YES,NO,NO
 Applin,YES,NO,NO
 Flapple,NO,NO,NO
 Appletun,NO,NO,NO
@@ -1082,7 +1086,7 @@ Zoroark Hisuian Form,NO,NO,NO
 Toedscool,YES,NO,NO
 Toedscruel,YES,NO,NO
 Lilligant Hisuian Form,NO,NO,NO
-Snom,NO,NO,NO
+Snom,YES,NO,NO
 Frosmoth,NO,NO,NO
 Dondozo,NO,NO,NO
 Tatsugiri Curly Form,NO,NO,NO
@@ -1103,7 +1107,7 @@ Dipplin,NO,NO,NO
 Poltchageist,NO,NO,NO
 Sinistcha,NO,NO,NO
 Hydrapple,NO,NO,NO
-Tarountula,NO,NO,NO
+Tarountula,YES,NO,NO
 Spidops,YES,NO,NO
 Victreebel Mega Victreebel,NO,NO,NO
 Dragonite Mega Dragonite,NO,NO,NO
@@ -1124,3 +1128,15 @@ Klawf,NO,NO,NO
 Glimmet,YES,NO,NO
 Glimmora,NO,NO,NO
 Flamigo,NO,NO,NO
+Squawkabilly Yellow Plumage,NO,NO,NO
+Squawkabilly Blue Plumage,NO,NO,NO
+Squawkabilly White Plumage,NO,NO,NO
+Squawkabilly Green Plumage,NO,NO,NO
+Blipbug,NO,NO,NO
+Dottler,NO,NO,NO
+Orbeetle,NO,NO,NO
+Flittle,NO,NO,NO
+Espathra,NO,NO,NO
+Silicobra,NO,NO,NO
+Sandaconda,NO,NO,NO
+Orthworm,NO,NO,NO
